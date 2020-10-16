@@ -1,0 +1,4 @@
+collections:
+  - name: git@github.com:otterstedt/otternet_ansible_collection.git
+    type: git
+    version: master
